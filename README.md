@@ -2,7 +2,7 @@
 # Project Title: Titanic Classification Project
 
 <div align="center">
-  <img src="[https://via.placeholder.com/300](https://media.licdn.com/dms/image/D4D0BAQFTpfRDuChAOQ/company-logo_200_200/0/1680453080726?e=1710979200&v=beta&t=sEmbLCpXyWW5FhA0io6Ntbj8vK_ihjY35Ht9KPGAn4s)" alt="Project Logo" width="300">
+  <img src="[[https://via.placeholder.com/300](https://media.licdn.com/dms/image/D4D0BAQFTpfRDuChAOQ/company-logo_200_200/0/1680453080726?e=1710979200&v=beta&t=sEmbLCpXyWW5FhA0io6Ntbj8vK_ihjY35Ht9KPGAn4s)](https://4.bp.blogspot.com/-0S1FF8kdykc/V_SmoK2jvdI/AAAAAAAAAEQ/2NMhWu1Y87g9c3GhX8P7vRHoioNzSWAmACLcB/s1600/13403359_1204127912954240_5090143372192938658_o.jpg)" alt="Project Logo" width="300">
 </div>
 
 ## Overview
