@@ -2,7 +2,7 @@
 # Project Title: Titanic Classification Project
 
 <div align="center">
-  <img src="https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw" alt="Project Logo" width="300">
+  <img src="[https://via.placeholder.com/300](https://media.licdn.com/dms/image/D4D0BAQFTpfRDuChAOQ/company-logo_200_200/0/1680453080726?e=1710979200&v=beta&t=sEmbLCpXyWW5FhA0io6Ntbj8vK_ihjY35Ht9KPGAn4s)" alt="Project Logo" width="300">
 </div>
 
 ## Overview
