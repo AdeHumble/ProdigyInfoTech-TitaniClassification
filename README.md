@@ -1,4 +1,3 @@
-# ProdigyInfoTech-Project1
 # Project Title: Titanic Classification Project
 
 <div align="https://4.bp.blogspot.com/-0S1FF8kdykc/V_SmoK2jvdI/AAAAAAAAAEQ/2NMhWu1Y87g9c3GhX8P7vRHoioNzSWAmACLcB/s1600/13403359_1204127912954240_5090143372192938658_o.jpg" alt="Project Logo" width="300">
